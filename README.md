@@ -2,15 +2,15 @@
 ### Identifying High-Risk Markets for Canadian Exporters
 **Stefan Vlajich | 2026**
 
-🔗 [View Interactive Dashboard](<https://public.tableau.com/app/profile/stefan.vlajich/viz/CanadianExportRiskAnalysis-SV2026/CanadianExportRiskAnalysis>)
-
-[![Canadian Export Risk Dashboard](https://public.tableau.com/static/images/Ca/CanadianExportRiskAnalysis-SV2026/CanadianExportRiskAnalysis/1.png)](https://public.tableau.com/views/CanadianExportRiskAnalysis-SV2026/CanadianExportRiskAnalysis)
-
 ## Overview
 This project looks at Canadian export data across four industries to 
 figure out which destination markets pose the most risk for Canadian 
 exporters. Trade volume data is combined with World Bank governance 
 indicators to build a composite risk score for each market.
+
+🔗 [View Interactive Dashboard](<https://public.tableau.com/app/profile/stefan.vlajich/viz/CanadianExportRiskAnalysis-SV2026/CanadianExportRiskAnalysis>)
+
+[![Canadian Export Risk Dashboard](https://public.tableau.com/static/images/Ca/CanadianExportRiskAnalysis-SV2026/CanadianExportRiskAnalysis/1.png)](https://public.tableau.com/views/CanadianExportRiskAnalysis-SV2026/CanadianExportRiskAnalysis)
 
 ## Central Question
 **Which Canadian export markets carry the highest risk-adjusted exposure, 
