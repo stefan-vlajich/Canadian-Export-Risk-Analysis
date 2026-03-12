@@ -28,10 +28,10 @@ the scoring approach
 
 ## Dashboard
 Built in Tableau Public with three interactive views:
-- **Export Map** — Canadian exports by destination country and industry
-- **Risk Scoring Model** — Export volume vs composite risk score, 
+- **Export Map** -> Canadian exports by destination country and industry
+- **Risk Scoring Model** -> Export volume vs composite risk score, 
 organized into four quadrants
-- **Risk Trend Analysis** — Risk score trends for Canada's highest-risk 
+- **Risk Trend Analysis** -> Risk score trends for Canada's highest-risk 
 markets from 2019 to 2023
 
 🔗 [View Interactive Dashboard](<https://public.tableau.com/app/profile/stefan.vlajich/viz/CanadianExportRiskAnalysis-SV2026/CanadianExportRiskAnalysis>)
@@ -39,8 +39,8 @@ markets from 2019 to 2023
 ## Data Sources
 | Source | Description | Years |
 |--------|-------------|-------|
-| Trade Data Online (ISED) | Canadian domestic exports by industry and destination country | 2019–2023 |
-| World Bank Worldwide Governance Indicators | Six governance dimensions by country | 2019–2023 |
+| Trade Data Online (ISED) | Canadian domestic exports by industry and destination country | 2019-2023 |
+| World Bank Worldwide Governance Indicators | Six governance dimensions by country | 2019-2023 |
 
 ## Methodology
 
@@ -68,9 +68,9 @@ relationship fluctuates year to year.
 Utilities, Manufacturing
 
 ## Tools
-- **Tableau Public** — Dashboard and visualization
-- **Python (pandas)** — Data cleaning and country name standardization
-- **Microsoft Excel** — Data preparation
+- **Tableau Public** -> Dashboard and visualization
+- **Python (pandas)** -> Data cleaning and country name standardization
+- **Microsoft Excel** -> Data preparation
 
 ## Files
 - `canada_trade_exports.csv` — Cleaned trade data from ISED
