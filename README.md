@@ -4,7 +4,7 @@
 
 🔗 [View Interactive Dashboard](<https://public.tableau.com/app/profile/stefan.vlajich/viz/CanadianExportRiskAnalysis-SV2026/CanadianExportRiskAnalysis>)
 
-[!(https://public.tableau.com/static/images/Ca/CanadianExportRiskAnalysis-SV2026/CanadianExportRiskAnalysis/1.png)](https://public.tableau.com/views/CanadianExportRiskAnalysis-SV2026/CanadianExportRiskAnalysis)
+[![Canadian Export Risk Dashboard](https://public.tableau.com/static/images/Ca/CanadianExportRiskAnalysis-SV2026/CanadianExportRiskAnalysis/1.png)](https://public.tableau.com/views/CanadianExportRiskAnalysis-SV2026/CanadianExportRiskAnalysis)
 
 ## Overview
 This project looks at Canadian export data across four industries to 
